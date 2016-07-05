@@ -1,0 +1,1 @@
+Current shipping version of Syncfusion CefSharp is 37 available at https://github.com/syncfusion/CefSharp/tree/cefsharp/37
